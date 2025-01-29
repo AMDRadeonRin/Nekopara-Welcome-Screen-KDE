@@ -1,16 +1,20 @@
 # Nekopara Welcome Screen for KDE
+
 It just a simple welcome screen for KDE.
 The characters are Chocola and Vanilla.
-## Usage：
-For User: Put the folder to `~/.local/share/plasma/look-and-feel/`
+
+## Installation
+### Install from [AUR](https://aur.archlinux.org/packages/nekopara-welcome-screen-kde-git)
+
 ```shell
-cd ~/.local/share/plasma/look-and-feel/
-git clone https://github.com/AMDRadeonRin/Nekopara-Welcome-Screen-KDE
+[yay/paru] -S nekopara-welcome-screen-kde-git
 ```
 
-For System: Put the folder to `/usr/share/plasma/look-and-feel/`
+### Manual Installation
+
+Place the folder in `~/.local/share/plasma/look-and-feel/`
+
 ```shell
-su
-cd /usr/share/plasma/look-and-feel/
+cd ~/.local/share/plasma/look-and-feel/
 git clone https://github.com/AMDRadeonRin/Nekopara-Welcome-Screen-KDE
 ```
