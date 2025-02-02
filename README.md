@@ -12,10 +12,10 @@ The characters are Chocola and Vanilla.
 
 ### Manual Installation
 
-Place the folder `org.nekopara.welcome.desktop` in `~/.local/share/plasma/look-and-feel/`
+Place the folder `uk.nekopara.welcome-screen.desktop` in `~/.local/share/plasma/look-and-feel/`
 
 ```shell
 git clone https://github.com/AMDRadeonRin/Nekopara-Welcome-Screen-KDE
 cd Nekopara-Welcome-Screen-KDE
-cp -r org.nekopara.welcome.desktop/ ~/.local/share/plasma/look-and-feel/
+cp -r uk.nekopara.welcome-screen.desktop/ ~/.local/share/plasma/look-and-feel/
 ```

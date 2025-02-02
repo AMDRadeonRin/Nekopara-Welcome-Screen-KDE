@@ -9,7 +9,7 @@
         ],
         "Category": "plasma-splashscreen",
         "Description": "NEKOPARA Welcome Screen",
-        "Id": "org.nekopara.welcome.desktop",
+        "Id": "uk.nekopara.welcome-screen.desktop",
         "License": "",
         "Name": "NEKOPARA Welcome Screen",
         "ServiceTypes": [
