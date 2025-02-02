@@ -15,6 +15,7 @@ The characters are Chocola and Vanilla.
 Place the folder in `~/.local/share/plasma/look-and-feel/`
 
 ```shell
-cd ~/.local/share/plasma/look-and-feel/
 git clone https://github.com/AMDRadeonRin/Nekopara-Welcome-Screen-KDE
+cd Nekopara-Welcome-Screen-KDE
+cp -r org.nekopara.welcome.desktop/ ~/.local/share/plasma/look-and-feel/
 ```
